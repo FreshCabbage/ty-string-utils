@@ -1,7 +1,6 @@
-
 {
   "name": "ty-string-utils",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "check ua",
   "main": "tystring-utils.js",
   "scripts": {
