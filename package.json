@@ -1,6 +1,21 @@
+
 {
+  "name": "ty-string-utils",
+  "version": "1.0.2",
+  "description": "check ua",
+  "main": "tystring-utils.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ty",
+  "license": "ISC",
   "dependencies": {
     "lodash": "^4.17.21",
     "underscore.string": "^3.3.6"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/FreshCabbage/tystring-utils.git"
+  },
+  "homepage": "https://github.com/FreshCabbage/tystring-utils.git#readme"
 }
